@@ -6,7 +6,9 @@ API
 
                            AltaUserPoints Developers API documentation            
         
-Introduction AltaUserPoints - API integration in a Third party component (advanced)This documentation is priorly dedicated to developers and anyone with a sufficient knowledge of PHP language and Joomla! components development.  Licence: AltaUserPoints is released under license GNU/GPL License. Author: Bernard Gilly – Adrien Roussel - This project started as AltaUserPoints back in 2008.
+## Introduction
+
+AltaUserPoints - API integration in a Third party component (advanced). This documentation is dedicated to developers and anyone with sufficient knowledge of the PHP language and Joomla 4 component development.  Licence: AltaUserPoints is released under the GNU/GPL License. Author: Bernard Gilly – Adrien Roussel - Martin Brampton. This project started as AlphaUserPoints back in 2008.
 
 ## Plugin/Rule creation
 
@@ -206,7 +208,7 @@ Create your own plugin for AltaUserPoint ! Plugins provide functions which are a
 
                                 * Created on 15 January 2016.
                 
-                                * Last updated on 01 June 2016.
+                                * Last updated on 05 April 2023.
                 
                 
             
